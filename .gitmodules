@@ -1,0 +1,3 @@
+[submodule "subsubsubmodule-workaround"]
+	path = subsubsubmodule-workaround
+	url = https://github.com/lapayka/subsubsubmodule-workaround
